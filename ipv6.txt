@@ -161,6 +161,7 @@ CCTV-14,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000
 
 bilibili,#genre#
 无损音乐,https://www.goodiptv.club/bilibili/1773507853
+英语口语,https://www.goodiptv.club/bilibili/31524068
 
 数字,#genre#
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
