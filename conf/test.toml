@@ -3,6 +3,7 @@ serverPort = 6500
 auth.method = "token"
 auth.token = "nas6110409"
 #user = "1f85a18b7851f145"
+socks5ProxyUrl = "127.0.0.1:1080"
 [transport]
 protocol = "tcp"
 [transport.tls]
