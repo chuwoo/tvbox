@@ -1,4 +1,4 @@
-serverAddr = "127.0.0.1"
+serverAddr = "home.getput.cloudns.org"
 serverPort = 6500
 auth.method = "token"
 auth.token = "nas6110409"
