@@ -6,6 +6,9 @@ auth.token = "nas6110409"
 
 [transport]
 protocol = "tcp"
+[transport.proxy]
+type = "socks5"
+address = "127.0.0.1:40000"
 [transport.tls]
 enable = true
 [[proxies]]
