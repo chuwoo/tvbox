@@ -1,0 +1,21 @@
+serverAddr = "home.getput.cloudns.org"
+serverPort = 6500
+auth.method = "token"
+auth.token = "nas6110409"
+#user = "1f85a18b7851f145"
+
+[transport]
+proxyURL = "socks5://127.0.0.1:9091"
+protocol = "tcp"
+[transport.tls]
+enable = true
+[[proxies]]
+name = "beiyi"
+type = "tcp"
+remotePort = 50508
+transport.useCompression = true
+[proxies.plugin]
+type = "socks5"
+username = "chuwoo"
+password = "nas6110409"
+#use_encryption = true
