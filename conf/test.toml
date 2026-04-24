@@ -16,6 +16,6 @@ remotePort = 50501
 transport.useCompression = true
 [proxies.plugin]
 type = "socks5"
-username = "chuwoo"
-password = "nas6110409"
+#username = "chuwoo"
+#password = "nas6110409"
 #use_encryption = true
