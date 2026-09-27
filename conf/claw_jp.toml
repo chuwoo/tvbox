@@ -10,9 +10,9 @@ protocol = "tcp"
 [transport.tls]
 enable = true
 [[proxies]]
-name = "claw_jp"
+name = "muse"
 type = "tcp"
-remotePort = 50509
+remotePort = 50505
 transport.useCompression = true
 [proxies.plugin]
 type = "socks5"
